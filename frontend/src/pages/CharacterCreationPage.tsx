@@ -363,7 +363,7 @@ export function CharacterCreationPage() {
         </form>
       </div>
 
-      <style jsx>{`
+      <style>{`
         .range-slider::-webkit-slider-thumb {
           appearance: none;
           height: 16px;

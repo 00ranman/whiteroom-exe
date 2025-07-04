@@ -1,0 +1,5 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h16v16H0z" fill="#000000"/>
+  <path d="M2 2h12v12H2z" fill="none" stroke="#00ff00" stroke-width="1"/>
+  <text x="8" y="10" font-family="monospace" font-size="6" fill="#ffffff" text-anchor="middle">WR</text>
+</svg>

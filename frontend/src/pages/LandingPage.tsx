@@ -82,7 +82,7 @@ export function LandingPage() {
             }}
             transition={{
               duration: 20,
-              repeat: Infinity,
+              repeat: Infinity as number,
               ease: "linear"
             }}
           />
@@ -95,7 +95,7 @@ export function LandingPage() {
             }}
             transition={{
               duration: 15,
-              repeat: Infinity,
+              repeat: Infinity as number,
               ease: "linear"
             }}
           />

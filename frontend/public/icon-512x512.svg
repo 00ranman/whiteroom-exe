@@ -1,0 +1,5 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#000000"/>
+  <rect x="10" y="10" width="492" height="492" fill="none" stroke="#00ff00" stroke-width="4"/>
+  <text x="256" y="280" font-family="monospace" font-size="80" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">WR</text>
+</svg>

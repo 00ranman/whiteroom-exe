@@ -3,9 +3,6 @@
 @tailwind utilities;
 
 @layer base {
-  * {
-    @apply border-border;
-  }
   body {
     @apply bg-void text-white-room;
     font-feature-settings: "cv02", "cv03", "cv04", "cv11";
